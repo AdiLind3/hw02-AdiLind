@@ -6,7 +6,7 @@
 Before submitting your work for grading, please ensure that your code adheres to our Java Coding Style Guidelines. 
 Make sure to create a well-organized PDF document containing the code for all the programs you've written, with proper indentation and one program per page.
 You can use "paste special" options to transfer the code from your code editor to your word processing software.
-The printed code must be well indented and easy to read for review. We recommend using the Consolas or Arial font with a font size of 12. Save this document as **HW2Code.pdf**.
+The printed code must be well indented andsfdsfffsdfs d easy to read for review. We recommend using the Consolas or Arial font with a font size of 12. Save this document as **HW2Code.pdf**.
 
 ### Submission Checklist
 
